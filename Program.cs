@@ -41,7 +41,7 @@ namespace ArrLisTabDic.cs
                         }
                         else
                         {
-                            Console.Write("Looks their is no book with that name sir please check again ");
+                            Console.Write("Looks there is no book with that name sir please check again ");
                         }
                     }
                     myBooks.Remove(actualBook);
